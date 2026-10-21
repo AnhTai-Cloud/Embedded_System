@@ -1,0 +1,12 @@
+# Generated firmware and native test output
+**/build/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+*.exe
+
+# OS files
+Thumbs.db
+.DS_Store
