@@ -1,1 +1,2 @@
+# Bỏ qua object, firmware và các file tạm được tạo khi build Bài 02.
 build/
